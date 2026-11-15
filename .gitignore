@@ -1,0 +1,16 @@
+# cambc workspace output
+/sdk/
+/maps/
+/runs/
+/matches/
+/replays/
+**/.cambc/
+**/build/
+compile_commands.json
+.clangd
+*.zip
+
+# environment and editors
+.venv/
+.vscode/
+.DS_Store
